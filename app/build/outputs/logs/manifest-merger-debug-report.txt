@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:3:9-46
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:4:9-84
+	android:name
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:4:26-82
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:5:9-83
+	android:name
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:5:26-81
+application
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:7:5-21:23
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.github.wseemann/FFmpegMediaMetadataRetriever/1.0.1/AndroidManifest.xml:11:5-20
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.writingminds/FFmpegAndroid/0.3.2/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:10:13-45
+	android:supportsRtl
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:12:13-39
+	android:roundIcon
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:11:13-52
+	android:allowBackup
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:8:13-39
+	android:icon
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:9:13-47
+	android:theme
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:13:13-44
+activity#com.update.videocompression.MainActivity
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:14:13-20:24
+	android:name
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:14:23-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:15:17-19:33
+action#android.intent.action.MAIN
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:16:21-73
+	android:name
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:16:29-70
+category#android.intent.category.LAUNCHER
+ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:18:21-81
+	android:name
+		ADDED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml:18:31-78
+uses-sdk
+INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.github.wseemann/FFmpegMediaMetadataRetriever/1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.writingminds/FFmpegAndroid/0.3.2/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashchandra/AndroidStudioProjects/VideoCompression/app/src/main/AndroidManifest.xml
