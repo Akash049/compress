@@ -1,6 +1,6 @@
 # Compression App
 
-## This included 3 functionalities
+## This includes 3 functionalities
 - Take a snapshot as a thumbnail
   ```
      //This portion of the function is used to take the snapshot of the video. The "myVideoThumbnail" can be used 
